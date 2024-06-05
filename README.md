@@ -45,7 +45,7 @@ A coleta precisa de dados de temperatura e transparencia da água, possibilitada
  - OneWire Library: Para comunicação com o sensor DS18B20.
  - DallasTemperature Library: Para leitura de dados de temperatura do sensor DS18B20.
 
-# Ideias Futuras:
+## Ideias Futuras:
 
  - Integração com outros sensores ambientais (pH, salinidade).
  - Implementação de conectividade para monitoramento remoto.
