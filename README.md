@@ -33,7 +33,7 @@
 - Envie o código para o Arduino.
 
 *Visualização dos Dados:*
-- Abra o monitor serial no Arduino IDE para visualizar os dados em tempo real.
+- Abra o monitor serial no Arduino IDE para ver os dados.
 
 ## Exemplo Wokwi:
 
@@ -53,7 +53,7 @@
 
 ## Bibliotecas usadas:
 
- - OneWire Library: Para comunicação com o sensor DS18B20.
+ - OneWire Library: Para o sensor DS18B20.
  - DallasTemperature Library: Para leitura de dados de temperatura do sensor DS18B20.
 
 ## Importância da Integração:
