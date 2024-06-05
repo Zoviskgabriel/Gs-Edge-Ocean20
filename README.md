@@ -26,11 +26,11 @@
   
 *Carregamento do Código:*
 - Abra o Arduino IDE.
-- Copie e cole o código fornecido neste github 
-- Instale as seguintes bibliotecas: - OneWire, DallasTemperature
-- Conecte o Arduino ao computador via cabo USB.
-- Selecione a porta correta em Ferramentas > Porta.
-- Clique em Carregar para enviar o código para o Arduino.
+- Copie e cole o código desse repositorio
+- Instale as bibliotecas: - OneWire, DallasTemperature
+- Conecte o Arduino no computador.
+- Selecione a porta.
+- Envie o código para o Arduino.
 
 *Visualização dos Dados:*
 - Abra o monitor serial no Arduino IDE para visualizar os dados em tempo real.
