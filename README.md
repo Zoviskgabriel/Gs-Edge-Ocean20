@@ -1,6 +1,6 @@
 # Gs-Edge-Ocean20
 
-# Integrantes
+## Integrantes
 
     Felipe Ferreira - RM-553680
 
@@ -8,7 +8,7 @@
     
 *Projeto de Monitoramento dos Oceanos*
 
-# Problema:
+## Problema:
 
 - O desenvolvimento do site e do protótipo com Arduino é motivado pela necessidade urgente de combater a desinformação e aumentar a conscientização sobre a saúde dos oceanos e o impacto das mudanças climáticas 
   nas correntes marinhas.
@@ -18,7 +18,7 @@
  - Este projeto vai monitorar a água dos oceanos usandoo um sistema de sensores com um Arduino. Os dados coletados incluem a temperatura da água e a transparencia da água.
  - A ideia é fornecer informações sobre a saúde dos oceanos para as regioes proximas ao mar, a empresas e prestadores de servicos marinhos.
 
-# Componentes Necessários:
+## Componentes Necessários:
 
 - Arduino Uno
 - Sensor de Temperatura DS18B20
@@ -26,7 +26,7 @@
 - Resistor de 4.7kΩ
 - Cabos de conexão
 
-# Importância da Integração:
+## Importância da Integração:
 
 A coleta precisa de dados de temperatura e transparencia da água, possibilitada por este projeto, representa um passo crucial para a compreensão e gestão de diversos aspectos ambientais. Sua aplicação se estende a:
 
@@ -36,11 +36,11 @@ A coleta precisa de dados de temperatura e transparencia da água, possibilitada
  - Controle de Processos Industriais: Assegurar o cumprimento de normas e a otimização de processos que envolvem água.
  - A integração desta tecnologia em diferentes áreas garante a otimização da gestão ambiental e a tomada de decisões mais eficazes e sustentáveis.
   
-# Conclusão:
+## Conclusão:
 - Este projeto é um sistema de monitoramento de temperatura, e claridade da água, Ele demonstra um enorme potencial para a área de monitoramento ambiental. Sua simplicidade e eficácia na coleta de dados o tornam uma ferramenta valiosa para diversas aplicações. Além 
   disso, sua arquitetura modular abre portas para futuros aprimoramentos, como a integração de sensores adicionais, a implementação de funcionalidades de análise de dados e a conexão a plataformas de monitoramento remoto.
 
-# Bibliotecas usadas:
+## Bibliotecas usadas:
 
  - OneWire Library: Para comunicação com o sensor DS18B20.
  - DallasTemperature Library: Para leitura de dados de temperatura do sensor DS18B20.
