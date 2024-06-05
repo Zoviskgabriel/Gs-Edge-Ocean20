@@ -18,22 +18,21 @@
  - A ideia é fornecer informações sobre a saúde dos oceanos para as regioes proximas ao mar, a empresas e prestadores de servicos marinhos. Para que assim seja possivel ter um maior controle da poluicao de certas areas.
 
 ## Instruções de Uso
-Montagem do arduino:
 
-- Conecte todos os componentes conforme as conexões descritas acima.
-- Certifique-se de que todos os fios estão bem conectados e que o resistor de pull-up está instalado corretamente no DS18B20.
-- Carregamento do Código:
-
+*Montagem do arduino:*
+- Conecte todos os componentes conforme as conexões da imagem a baixo.
+  
+*Carregamento do Código:*
 - Abra o Arduino IDE.
-- Copie e cole o código fornecido neste github ou no link para o simulador Wokwi: 
-- Instale as seguintes bibliotecas: - OneWire, DallasTemperature, Wire, Adafruit_GFX, Adafruit_SSD1306
+- Copie e cole o código fornecido neste github 
+- Instale as seguintes bibliotecas: - OneWire, DallasTemperature
 - Conecte o Arduino ao computador via cabo USB.
 - Selecione a porta correta em Ferramentas > Porta.
 - Clique em Carregar para enviar o código para o Arduino.
-- Visualização dos Dados:
 
+- Visualização dos Dados:
 - Abra o monitor serial no Arduino IDE para visualizar os dados em tempo real.
-- Observe as leituras de temperatura, nível da água e claridade da água no display OLED.
+
 
 ## Componentes Necessários:
 
