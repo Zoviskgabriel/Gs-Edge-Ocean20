@@ -10,8 +10,8 @@
 
 ## Descrição do Projeto
 
- Este projeto vai monitorar a água dos oceanos usandoo um sistema de sensores com um Arduino. Os dados coletados incluem a temperatura da água e a claridade da água.
- A ideia é fornecer informações sobre a saúde dos oceanos para as regioes proximas ao mar, a empresas e prestadores de servicos marinhos.
+ - Este projeto vai monitorar a água dos oceanos usandoo um sistema de sensores com um Arduino. Os dados coletados incluem a temperatura da água e a claridade da água.
+ - A ideia é fornecer informações sobre a saúde dos oceanos para as regioes proximas ao mar, a empresas e prestadores de servicos marinhos.
 
 # Componentes Necessários:
 
