@@ -8,7 +8,7 @@
     
 *Projeto de Monitoramento dos Oceanos*
 
-#Problema:
+# Problema:
 
 - O desenvolvimento do site e do protótipo com Arduino é motivado pela necessidade urgente de combater a desinformação e aumentar a conscientização sobre a saúde dos oceanos e o impacto das mudanças climáticas 
   nas correntes marinhas.
