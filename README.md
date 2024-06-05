@@ -30,9 +30,16 @@
 - Selecione a porta correta em Ferramentas > Porta.
 - Clique em Carregar para enviar o código para o Arduino.
 
-- Visualização dos Dados:
+*Visualização dos Dados:*
 - Abra o monitor serial no Arduino IDE para visualizar os dados em tempo real.
 
+## Exemplo Wokwi:
+
+- Wokwi: https://wokwi.com/projects/399883240126559233
+
+*Link do video:*
+
+ - Youtube:
 
 ## Componentes Necessários:
 
@@ -41,6 +48,11 @@
 - Fotoresistor (LDR) 
 - Resistor de 4.7kΩ
 - Cabos de conexão
+
+## Bibliotecas usadas:
+
+ - OneWire Library: Para comunicação com o sensor DS18B20.
+ - DallasTemperature Library: Para leitura de dados de temperatura do sensor DS18B20.
 
 ## Importância da Integração:
 
@@ -55,11 +67,6 @@ A coleta precisa de dados de temperatura e transparencia da água, possibilitada
 ## Conclusão:
 - Este projeto é um sistema de monitoramento de temperatura, e claridade da água, Ele demonstra um enorme potencial para a área de monitoramento ambiental. Sua simplicidade e eficácia na coleta de dados o tornam uma ferramenta valiosa para diversas aplicações. Além 
   disso, sua arquitetura modular abre portas para futuros aprimoramentos, como a integração de sensores adicionais, a implementação de funcionalidades de análise de dados e a conexão a plataformas de monitoramento remoto.
-
-## Bibliotecas usadas:
-
- - OneWire Library: Para comunicação com o sensor DS18B20.
- - DallasTemperature Library: Para leitura de dados de temperatura do sensor DS18B20.
 
 ## Ideias Futuras:
 
