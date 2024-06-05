@@ -21,6 +21,8 @@
 
 *Montagem do arduino:*
 - Conecte todos os componentes conforme as conexões da imagem a baixo.
+
+<img src="https://github.com/Zoviskgabriel/Gs-Edge-Ocean20/blob/main/img-Wokwi" width=700>
   
 *Carregamento do Código:*
 - Abra o Arduino IDE.
