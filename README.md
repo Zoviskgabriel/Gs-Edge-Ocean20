@@ -9,14 +9,31 @@
 *Projeto de Monitoramento dos Oceanos*
 
 ## Problema:
-
-- O desenvolvimento do site e do protótipo com Arduino é motivado pela necessidade urgente de combater a desinformação e aumentar a conscientização sobre a saúde dos oceanos e o impacto das mudanças climáticas 
-  nas correntes marinhas.
+ - A necessidade de um monitoramento das aguas do oceano para combater a desinformação e aumentar a conscientização sobre a saúde dos oceanos e o impacto das mudanças climáticas 
+  nas correntes marinhas. Assim proposto o desenvolvimento do um protótipo com Arduino para utilizar sensores que monitorem o oceano.
 
 ## Solucao do Projeto:
 
- - Este projeto vai monitorar a água dos oceanos usandoo um sistema de sensores com um Arduino. Os dados coletados incluem a temperatura da água e a transparencia da água.
- - A ideia é fornecer informações sobre a saúde dos oceanos para as regioes proximas ao mar, a empresas e prestadores de servicos marinhos.
+ - Este projeto vai monitorar a água dos oceanos usando um sistema de sensores de temperatura e Fotoresistor com um Arduino. Os dados coletados incluem a temperatura da água e a transparencia da água.
+ - A ideia é fornecer informações sobre a saúde dos oceanos para as regioes proximas ao mar, a empresas e prestadores de servicos marinhos. Para que assim seja possivel ter um maior controle da poluicao de certas areas.
+
+## Instruções de Uso
+Montagem do arduino:
+
+- Conecte todos os componentes conforme as conexões descritas acima.
+- Certifique-se de que todos os fios estão bem conectados e que o resistor de pull-up está instalado corretamente no DS18B20.
+- Carregamento do Código:
+
+- Abra o Arduino IDE.
+- Copie e cole o código fornecido neste github ou no link para o simulador Wokwi: https://wokwi.com/projects/399742736151854081
+- Instale as seguintes bibliotecas: - OneWire, DallasTemperature, Wire, Adafruit_GFX, Adafruit_SSD1306
+- Conecte o Arduino ao computador via cabo USB.
+- Selecione a porta correta em Ferramentas > Porta.
+- Clique em Carregar para enviar o código para o Arduino.
+- Visualização dos Dados:
+
+- Abra o monitor serial no Arduino IDE para visualizar os dados em tempo real.
+- Observe as leituras de temperatura, nível da água e claridade da água no display OLED.
 
 ## Componentes Necessários:
 
