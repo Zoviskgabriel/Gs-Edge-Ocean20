@@ -25,7 +25,7 @@ Montagem do arduino:
 - Carregamento do Código:
 
 - Abra o Arduino IDE.
-- Copie e cole o código fornecido neste github ou no link para o simulador Wokwi: https://wokwi.com/projects/399742736151854081
+- Copie e cole o código fornecido neste github ou no link para o simulador Wokwi: 
 - Instale as seguintes bibliotecas: - OneWire, DallasTemperature, Wire, Adafruit_GFX, Adafruit_SSD1306
 - Conecte o Arduino ao computador via cabo USB.
 - Selecione a porta correta em Ferramentas > Porta.
