@@ -41,7 +41,7 @@
 
 *Link do video:*
 
- - Youtube:
+ - Youtube:https://youtu.be/64yqLUnezn0
 
 ## Componentes Necessários:
 
